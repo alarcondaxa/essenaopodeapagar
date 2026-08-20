@@ -1,0 +1,76 @@
+{
+  "cleanUrls": false,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/servicos.html",
+      "destination": "/servicos-sp.html",
+      "permanent": true
+    },
+    {
+      "source": "/licenciamento-veicular.html",
+      "destination": "/licenciamento-sp.html",
+      "permanent": true
+    },
+    {
+      "source": "/transferencia-veicular.html",
+      "destination": "/transferencia-veiculo-sp.html",
+      "permanent": true
+    },
+    {
+      "source": "/segunda-via-crlv.html",
+      "destination": "/crlv-sp.html",
+      "permanent": true
+    },
+    {
+      "source": "/regularizacao-veicular.html",
+      "destination": "/regularizacao-veicular-sp.html",
+      "permanent": true
+    },
+    {
+      "source": "/consulta-debitos-veiculares.html",
+      "destination": "/debitos-veiculares-sp.html",
+      "permanent": true
+    },
+    {
+      "source": "/emissao-atpv-e.html",
+      "destination": "/atpv-e-sp.html",
+      "permanent": true
+    },
+    {
+      "source": "/comunicacao-de-venda-veiculo.html",
+      "destination": "/comunicacao-de-venda-sp.html",
+      "permanent": true
+    },
+    {
+      "source": "/baixa-de-gravame-veiculo.html",
+      "destination": "/baixa-de-gravame-sp.html",
+      "permanent": true
+    },
+    {
+      "source": "/primeiro-emplacamento-0km.html",
+      "destination": "/primeiro-emplacamento-sp.html",
+      "permanent": true
+    },
+    {
+      "source": "/placa-mercosul-veiculo.html",
+      "destination": "/placa-mercosul-sp.html",
+      "permanent": true
+    },
+    {
+      "source": "/guias-servicos-veiculares.html",
+      "destination": "/servicos-sp.html",
+      "permanent": true
+    },
+    {
+      "source": "/estados-atendidos.html",
+      "destination": "/servicos-sp.html",
+      "permanent": true
+    },
+    {
+      "source": "/ipva-por-estado.html",
+      "destination": "/ipva-sp.html",
+      "permanent": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+EMPLACADORA QUEIROZ — SITE NOVO FOCADO EM SÃO PAULO
+
+DOMÍNIO:
+https://departamento-de-transito.vercel.app
+
+COMO PUBLICAR NA VERCEL
+1. Use ESTE ZIP como substituição completa do projeto atual.
+2. Não misture com a pasta antiga. O objetivo é remover as páginas dos outros estados.
+3. Faça um novo deploy com todos os arquivos deste pacote.
+4. Depois teste:
+   https://departamento-de-transito.vercel.app/
+   https://departamento-de-transito.vercel.app/detran-sp.html
+   https://departamento-de-transito.vercel.app/ipva-sp.html
+   https://departamento-de-transito.vercel.app/licenciamento-sp.html
+   https://departamento-de-transito.vercel.app/sitemap.xml
+   https://departamento-de-transito.vercel.app/robots.txt
+
+GOOGLE SEARCH CONSOLE
+- Em Sitemaps, envie somente: sitemap.xml
+- Não envie arquivos .html no campo de sitemap.
+- O sitemap contém apenas páginas focadas em São Paulo.
+
+PÁGINAS PRINCIPAIS
+- detran-sp.html
+- ipva-sp.html
+- licenciamento-sp.html
+- transferencia-veiculo-sp.html
+- crlv-sp.html
+- debitos-veiculares-sp.html
+- comunicacao-de-venda-sp.html
+- atpv-e-sp.html
+- primeiro-emplacamento-sp.html
+- baixa-de-gravame-sp.html
+- placa-mercosul-sp.html
+- regularizacao-veicular-sp.html
+
+IMPORTANTE SOBRE AS PÁGINAS ANTIGAS
+- As páginas dos outros 26 estados NÃO estão neste projeto e NÃO estão no sitemap.
+- Ao substituir o projeto inteiro, elas deixarão de existir e retornarão 404, permitindo que o Google as remova gradualmente do índice.
+- Não redirecione páginas de outros estados para SP apenas para tentar manter tráfego; isso seria uma correspondência ruim para a intenção do usuário.
+- O vercel.json redireciona apenas páginas genéricas antigas para páginas equivalentes de São Paulo.
+
+IDENTIDADE
+A Emplacadora Queiroz é empresa privada e independente.
+Não é DETRAN-SP, Secretaria da Fazenda, Governo do Estado de São Paulo ou órgão público.
